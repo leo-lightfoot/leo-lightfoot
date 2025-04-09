@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to create and contribute to open source projects. I'm constantly learning and exploring new technologies to improve my skills and build better solutions.
+I'm a Tech and Finance enthusiast based in Frankfurt am Main, Germany. I love creating new projects and always look for challenges beyond the classroom. I'm constantly learning and exploring new technologies to improve my skills and build better solutions.
 
 [🌐 Check out my website](https://abdulmalik.de)
 
@@ -25,20 +25,21 @@ I'm a passionate developer who loves to create and contribute to open source pro
 
 ### ECB Interest Rate Policy Prediction
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leo-lightfoot&repo=ECB-Interest-Rate-Policy&theme=radical)](https://github.com/leo-lightfoot/ECB-Interest-Rate-Policy)
-![Repo Views](https://komarev.com/ghpvc/?username=leo-lightfoot&repo=ECB-Interest-Rate-Policy&color=blue&style=flat-square&label=Repository+Views)
-[![Website](https://img.shields.io/badge/View_Demo-ecb--interest--rate--policy.streamlit.app-blue?style=flat-square)](https://ecb-interest-rate-policy.streamlit.app/)
+<div align="center">
+  
+![Repo Views](https://komarev.com/ghpvc/?username=leo-lightfoot&repo=ECB-Interest-Rate-Policy&color=blue&style=flat-square&label=Views) [![Demo](https://img.shields.io/badge/Demo-Streamlit-blue?style=flat-square&logo=streamlit)](https://ecb-interest-rate-policy.streamlit.app/)
+</div>
 
 ### Green Acquisition Research
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leo-lightfoot&repo=GreenAcquisition&theme=radical)](https://github.com/leo-lightfoot/GreenAcquisition)
-![Repo Views](https://komarev.com/ghpvc/?username=leo-lightfoot&repo=GreenAcquisition&color=blue&style=flat-square&label=Repository+Views)
+<div align="center">
+  
+![Repo Views](https://komarev.com/ghpvc/?username=leo-lightfoot&repo=GreenAcquisition&color=blue&style=flat-square&label=Views)
+</div>
 
 ## 📈 Repository Insights
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-lightfoot&theme=dracula)](https://github.com/leo-lightfoot)
-
-## 📊 GitHub Stats
-
-[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-lightfoot&show_icons=true&theme=radical&count_private=true)](https://github.com/leo-lightfoot)
 
 ## 🤝 Connect with Me
 
