@@ -17,19 +17,19 @@ I'm a passionate developer who loves to create and contribute to open source pro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-lightfoot&show_icons=true&theme=radical)
+[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-lightfoot&show_icons=true&theme=radical&count_private=true)](https://github.com/leo-lightfoot)
 
-## 📦 Repository Traffic
+## 📈 Repository Insights
 
-![Repository Clones](https://img.shields.io/badge/dynamic/json?color=blue&label=Repository%20Clones&query=count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fleo-lightfoot%2Fleo-lightfoot%2Ftraffic%2Fclones)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-lightfoot&theme=dracula)](https://github.com/leo-lightfoot)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leo-lightfoot&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=leo-lightfoot&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lightfoot&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lightfoot&layout=compact&theme=radical)](https://github.com/leo-lightfoot)
 
 ## 🤝 Connect with Me
 
@@ -56,4 +56,4 @@ I love to code while listening to music! 🎵
 
 ---
 
-⭐️ From [Leo Lightfoot](https://github.com/leo-lightfoot) 
+⭐️ From [Abdul Malik](https://github.com/leo-lightfoot) 
