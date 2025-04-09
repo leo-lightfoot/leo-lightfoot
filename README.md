@@ -19,6 +19,10 @@ I'm a passionate developer who loves to create and contribute to open source pro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-lightfoot&show_icons=true&theme=radical)
 
+## 📦 Repository Traffic
+
+![Repository Clones](https://img.shields.io/badge/dynamic/json?color=blue&label=Repository%20Clones&query=count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fleo-lightfoot%2Fleo-lightfoot%2Ftraffic%2Fclones)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leo-lightfoot&theme=radical)
