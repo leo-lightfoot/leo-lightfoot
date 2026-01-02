@@ -10,7 +10,7 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 - Build ML models for financial forecasting (ECB interest rates, portfolio optimization)
 - Develop quantitative risk models (VaR, regime-aware allocations)
 - Create interactive financial applications and educational tools
-- Research sustainable finance and green acquisitions
+- Research financial metrics and acquisitions
 
 🎓 Currently expanding my knowledge in advanced machine learning techniques and financial engineering
 
@@ -23,8 +23,7 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 **Languages & Core Technologies**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![C++]((https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 **Data Science & ML**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
@@ -53,6 +52,26 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 
 ## 🏆 Featured Projects
 
+### 📊 Regime-Aware Fixed Income Portfolio Allocation
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model)
+
+**Advanced portfolio optimization** model that adjusts allocations based on identified market regimes.
+
+**Tech Stack:** Python, Jupyter Notebook  
+**Methods:** Regime detection, portfolio optimization, backtesting
+
+---
+
+### 💰 Private Pension Plan Financial Case
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Private-Pension-Plan-Financial-Case)
+
+**Financial planning model** for retirement investment strategy optimization.
+
+**Tech Stack:** Python, Financial Modeling  
+**Scenario:** €250,000 investment over 20-year horizon
+
+---
+
 ### 💹 ECB Interest Rate Policy Prediction
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/ECB-Interest-Rate-Policy)
 [![Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit)](https://ecb-interest-rate-policy.streamlit.app/)
@@ -68,26 +87,6 @@ A **machine learning model** that predicts European Central Bank interest rate d
 
 ---
 
-### 🌱 Green Acquisition Research
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/GreenAcquisition)
-
-**Research project** analyzing how stock prices of conventional firms respond when announcing green/sustainable acquisitions.
-
-**Tech Stack:** Python, Statistical Analysis  
-**Focus:** Event study methodology, sustainable finance, market reactions
-
----
-
-### 📊 Regime-Aware Fixed Income Portfolio Allocation
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model)
-
-**Advanced portfolio optimization** model that adjusts allocations based on identified market regimes.
-
-**Tech Stack:** Python, Jupyter Notebook  
-**Methods:** Regime detection, portfolio optimization, backtesting
-
----
-
 ### 📈 Risk Modelling - Value at Risk (VaR)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/RiskModelling_VaR)
 
@@ -95,16 +94,6 @@ A **machine learning model** that predicts European Central Bank interest rate d
 
 **Tech Stack:** Python, Financial Mathematics  
 **Applications:** Portfolio risk measurement, stress testing
-
----
-
-### 💰 Private Pension Plan Financial Case
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Private-Pension-Plan-Financial-Case)
-
-**Financial planning model** for retirement investment strategy optimization.
-
-**Tech Stack:** Python, Financial Modeling  
-**Scenario:** €250,000 investment over 20-year horizon
 
 ---
 
@@ -145,7 +134,7 @@ A **machine learning model** that predicts European Central Bank interest rate d
   
 ### 💬 Let's collaborate on Finance × Tech projects!
 
-**"Building the intersection of quantitative finance and machine learning"**
+**"Building at the intersection of quantitative finance and machine learning"**
 
 ⭐️ From [Abdul Malik](https://github.com/leo-lightfoot)
 
