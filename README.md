@@ -53,6 +53,7 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 
 ### 💰 Private Pension Plan Financial Case
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Private-Pension-Plan-Financial-Case)
+[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-lightfoot.github.io/Private-Pension-Plan-Financial-Case/)
 
 **Financial planning model** for retirement investment strategy optimization.
 
