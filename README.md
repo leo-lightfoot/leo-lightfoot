@@ -89,6 +89,7 @@ A **machine learning model** that predicts European Central Bank interest rate d
 
 ### 🎮 FinLearningGamified
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/FinLearningGamified)
+[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://moneywisedemo.netlify.app/)
 
 **Interactive educational tool** that gamifies financial learning concepts.
 
