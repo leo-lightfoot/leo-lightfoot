@@ -42,7 +42,7 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 
 ### 📊 Regime-Aware Fixed Income Portfolio Allocation
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model)
-[🌐 Check out the Details](https://leo-lightfoot.github.io/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model/)
+[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-lightfoot.github.io/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model/)
 
 **Advanced portfolio optimization** model that adjusts allocations based on identified market regimes.
 
