@@ -23,7 +23,7 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 **Languages & Core Technologies**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C++]((https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 **Data Science & ML**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
@@ -41,10 +41,10 @@ I'm a **Tech and Finance enthusiast** based in Frankfurt am Main, Germany, passi
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-lightfoot&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lightfoot&layout=compact&theme=radical&hide_border=true)](https://github.com/leo-lightfoot)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lightfoot&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
