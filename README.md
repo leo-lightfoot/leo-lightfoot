@@ -38,88 +38,64 @@ I'm a **technology-driven finance professional** based in Frankfurt am Main, Ger
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-FF6B6B?style=flat-square&logoColor=white)
 
-**Data Engineering**
+**Data Engineering & Analytics**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
-
-**Finance Tools**
-![Bloomberg](https://img.shields.io/badge/-Bloomberg%20Terminal-000000?style=flat-square&logo=bloomberg&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel%20%2F%20VBA-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
-![FactSet](https://img.shields.io/badge/-FactSet-003865?style=flat-square&logoColor=white)
+
 
 **Finance & Regulatory Knowledge**
+![Bloomberg](https://img.shields.io/badge/-Bloomberg%20Terminal-000000?style=flat-square&logo=bloomberg&logoColor=white)
+![FactSet](https://img.shields.io/badge/-FactSet-003865?style=flat-square&logoColor=white)
 ![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-003366?style=flat-square&logoColor=white)
 ![DCF Modelling](https://img.shields.io/badge/-DCF%20Modelling-2E4057?style=flat-square&logoColor=white)
 ![VaR](https://img.shields.io/badge/-VaR%20%2F%20Stress%20Testing-8B0000?style=flat-square&logoColor=white)
 ![Sensitivity Analysis](https://img.shields.io/badge/-Sensitivity%20Analysis-8B0000?style=flat-square&logoColor=white)
-![IRR](https://img.shields.io/badge/-IRR-2E4057?style=flat-square&logoColor=white)
 ![ABOR & IBOR](https://img.shields.io/badge/-ABOR%20%26%20IBOR-1A1A2E?style=flat-square&logoColor=white)
 ![Fund Operations](https://img.shields.io/badge/-Fund%20Operations-003366?style=flat-square&logoColor=white)
 ![IFRS](https://img.shields.io/badge/-IFRS-0052CC?style=flat-square&logoColor=white)
 ![MiFID II](https://img.shields.io/badge/-MiFID%20II-0052CC?style=flat-square&logoColor=white)
-![UCITS](https://img.shields.io/badge/-UCITS-0052CC?style=flat-square&logoColor=white)
-![DORA](https://img.shields.io/badge/-DORA-0052CC?style=flat-square&logoColor=white)
-![AIFMD](https://img.shields.io/badge/-AIFMD-003366?style=flat-square&logoColor=white)
+
 
 **Tools & Deployment**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 📊 Regime-Aware Fixed Income Portfolio Allocation
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model)
-[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-lightfoot.github.io/Regime-Aware-Fixed-Income-Portfolio-Allocation-Model/)
+### 📊 Portfolio Analytics Dashboard
+`Python` `PostgreSQL` `Tableau`
+
+[![Repo](https://github.com/leo-lightfoot/Portfolio-Analytics)]
+[![Website](https://public.tableau.com/shared/FXJ9K7XDZ?:display_count=n&:origin=viz_share_link)]
+
+End-to-end portfolio analytics pipeline with performance and risk dashboard for a multi-fund portfolio across 2 different optimization strategies and month-end rebalancing.
 
 ---
 
-### 📉 Yield Curve PCA & P&L Attribution
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Yield_Curve_PCA)
-[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-lightfoot.github.io/Yield_Curve_PCA/)
+### 🐦 Twitter Financial Sentiment Analysis
+`NLP` `nltk` `scikit-learn` `FinBERT`
 
----
+[![Repo](https://github.com/leo-lightfoot/TwitterFinancialSentiment-BinaryAnalysis)]
+[![Website](https://finance.abdulmalik.de/2026/03/13/financial-tweet-sentiment/)]
 
-### 🔁 OTC Derivatives Margining System
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/OTC_Derivatives_Margining)
-[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-lightfoot.github.io/OTC_Derivatives_Margining/)
-
----
-
-### 💰 Private Pension Plan Financial Case
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Private-Pension-Plan-Financial-Case)
-[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-lightfoot.github.io/Private-Pension-Plan-Financial-Case/)
+Machine Learning based classification of financial tweets as Bearish (0) or Bullish (1), comparing traditional ML classifiers (TF-IDF) and FinBERT embeddings.
 
 ---
 
 ### 💹 ECB Interest Rate Policy Prediction
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/ECB-Interest-Rate-Policy)
 [![Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit)](https://ecb-interest-rate-policy.streamlit.app/)
-
----
-
-### 📈 Risk Modelling - Value at Risk (VaR)
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/RiskModelling_VaR)
-
----
-
-### 🎮 FinLearningGamified
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/FinLearningGamified)
-[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://moneywisedemo.netlify.app/)
 
 ---
 
