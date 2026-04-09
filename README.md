@@ -49,6 +49,11 @@ I'm a **technology-driven finance professional** based in Frankfurt am Main, Ger
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel%20%2F%20VBA-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
+**Tools & Deployment**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 **Finance & Regulatory Knowledge**
 ![Bloomberg](https://img.shields.io/badge/-Bloomberg%20Terminal-000000?style=flat-square&logo=bloomberg&logoColor=white)
@@ -62,13 +67,6 @@ I'm a **technology-driven finance professional** based in Frankfurt am Main, Ger
 ![IFRS](https://img.shields.io/badge/-IFRS-0052CC?style=flat-square&logoColor=white)
 ![MiFID II](https://img.shields.io/badge/-MiFID%20II-0052CC?style=flat-square&logoColor=white)
 
-
-**Tools & Deployment**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-
 ---
 
 ## 🏆 Featured Projects
@@ -76,8 +74,8 @@ I'm a **technology-driven finance professional** based in Frankfurt am Main, Ger
 ### 📊 Portfolio Analytics Dashboard
 `Python` `PostgreSQL` `Tableau`
 
-[![Repo](https://github.com/leo-lightfoot/Portfolio-Analytics)]
-[![Website](https://public.tableau.com/shared/FXJ9K7XDZ?:display_count=n&:origin=viz_share_link)]
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/Portfolio-Analytics)
+[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://public.tableau.com/shared/FXJ9K7XDZ?:display_count=n&:origin=viz_share_link)
 
 End-to-end portfolio analytics pipeline with performance and risk dashboard for a multi-fund portfolio across 2 different optimization strategies and month-end rebalancing.
 
@@ -86,8 +84,8 @@ End-to-end portfolio analytics pipeline with performance and risk dashboard for 
 ### 🐦 Twitter Financial Sentiment Analysis
 `NLP` `nltk` `scikit-learn` `FinBERT`
 
-[![Repo](https://github.com/leo-lightfoot/TwitterFinancialSentiment-BinaryAnalysis)]
-[![Website](https://finance.abdulmalik.de/2026/03/13/financial-tweet-sentiment/)]
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=GitHub)](https://github.com/leo-lightfoot/TwitterFinancialSentiment-BinaryAnalysis)
+[![Website](https://img.shields.io/badge/Website-Live%20Demo-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://finance.abdulmalik.de/2026/03/13/financial-tweet-sentiment/)
 
 Machine Learning based classification of financial tweets as Bearish (0) or Bullish (1), comparing traditional ML classifiers (TF-IDF) and FinBERT embeddings.
 
