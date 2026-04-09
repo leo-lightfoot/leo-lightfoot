@@ -33,16 +33,48 @@ I'm a **technology-driven finance professional** based in Frankfurt am Main, Ger
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP%20%2F%20FinBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-FF6B6B?style=flat-square&logoColor=white)
+
+**Data Engineering**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
 
 **Finance Tools**
 ![Bloomberg](https://img.shields.io/badge/-Bloomberg%20Terminal-000000?style=flat-square&logo=bloomberg&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel%20%2F%20VBA-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![FactSet](https://img.shields.io/badge/-FactSet-003865?style=flat-square&logoColor=white)
+
+**Finance & Regulatory Knowledge**
+![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-003366?style=flat-square&logoColor=white)
+![DCF Modelling](https://img.shields.io/badge/-DCF%20Modelling-2E4057?style=flat-square&logoColor=white)
+![VaR](https://img.shields.io/badge/-VaR%20%2F%20Stress%20Testing-8B0000?style=flat-square&logoColor=white)
+![Sensitivity Analysis](https://img.shields.io/badge/-Sensitivity%20Analysis-8B0000?style=flat-square&logoColor=white)
+![IRR](https://img.shields.io/badge/-IRR-2E4057?style=flat-square&logoColor=white)
+![ABOR & IBOR](https://img.shields.io/badge/-ABOR%20%26%20IBOR-1A1A2E?style=flat-square&logoColor=white)
+![Fund Operations](https://img.shields.io/badge/-Fund%20Operations-003366?style=flat-square&logoColor=white)
+![IFRS](https://img.shields.io/badge/-IFRS-0052CC?style=flat-square&logoColor=white)
+![MiFID II](https://img.shields.io/badge/-MiFID%20II-0052CC?style=flat-square&logoColor=white)
+![UCITS](https://img.shields.io/badge/-UCITS-0052CC?style=flat-square&logoColor=white)
+![DORA](https://img.shields.io/badge/-DORA-0052CC?style=flat-square&logoColor=white)
+![AIFMD](https://img.shields.io/badge/-AIFMD-003366?style=flat-square&logoColor=white)
 
 **Tools & Deployment**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
